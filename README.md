@@ -55,5 +55,4 @@ http://image-filter-starter-code-dev2.ap-southeast-1.elasticbeanstalk.com
 METHOD: GET
 image-filter-starter-code-dev2.ap-southeast-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png
 
-response: return path of the image in server
-example: /var/app/current/util/tmp/filtered.531.jpg
+response: return an image
